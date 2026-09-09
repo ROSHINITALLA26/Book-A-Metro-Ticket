@@ -7,7 +7,7 @@ request tracking, booking record creation, and QR-based ticket verification.
 
 ### 🎥 Project Demo
 
-[▶️ Watch the Project Demo]([YOUR_GOOGLE_DRIVE_LINK](https://drive.google.com/file/d/1HHIN9mJaFZIL6zIJfFRJePf8RtHEU2he/view?usp=sharing))
+[▶️ Watch the Project Demo](https://drive.google.com/file/d/1HHIN9mJaFZIL6zIJfFRJePf8RtHEU2he/view?usp=sharing)
 
 ### ✨ Features
 
